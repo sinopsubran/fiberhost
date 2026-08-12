@@ -207,7 +207,7 @@ function App() {
               <h1>
                 Your connection.
                 <br />
-                <strong>Your control.</strong>
+                <strong>SINO P SUBRAN control.</strong>
               </h1>
 
               <p>
