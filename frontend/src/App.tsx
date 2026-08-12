@@ -201,7 +201,7 @@ function App() {
             <div className="hero-content">
               <div className="live-pill">
                 <span></span>
-                FIBER NETWORK
+                SINO P SUBRAN
               </div>
 
               <h1>
