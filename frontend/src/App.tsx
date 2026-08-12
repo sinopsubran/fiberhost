@@ -205,11 +205,12 @@ function App() {
               </div>
 
               <h1>
-                Your connection.
-                <br />
-		<h1>sino p subran</h1>
-                <strong>SINO P SUBRAN control.</strong>
-              </h1>
+  				Your connection.
+  			<br />
+ 				 <span className="highlight">SINO P SUBRAN</span>
+  			<br />
+ 				 <strong>FiberHost Control.</strong>
+			</h1>
 
               <p>
                 Manage customers, monthly collections,
